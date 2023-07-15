@@ -1,0 +1,148 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans',sans-serif;
+    scroll-behavior: smooth;
+}
+
+img.retangle {
+    position: absolute;
+width: 654px;
+height: 621px;
+left: 46px;
+top: 32px;
+
+background: #008BCF;
+border-radius: 30px;
+}
+
+h1 {
+    position: absolute;
+width: 590px;
+height: 88px;
+left: 98px;
+top: 88px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 800;
+font-size: 30px;
+line-height: 35px;
+
+color: #000000;
+}
+
+.input {
+    position: absolute;
+width: 397px;
+height: 34px;
+left: 163px;
+top: 176px;
+
+background: #FFFFFF;
+border-radius: 30px;
+text-align: center;
+}
+
+.input1 {
+    position: absolute;
+width: 400px;
+height: 34px;
+left: 163px;
+top: 232px;
+
+background: #FFFFFF;
+border-radius: 30px;
+text-align: center;
+}
+
+.pasword {
+    position: absolute;
+width: 398px;
+height: 34px;
+left: 165px;
+top: 279px;
+text-align: center;
+background: #FFFFFF;
+border-radius: 30px;
+}
+
+.pasword1 {
+    position: absolute;
+width: 398px;
+height: 34px;
+left: 165px;
+top: 326px;
+text-align: center;
+background: #FFFFFF;
+border-radius: 30px;
+}
+
+.tmbl-daftar {
+    position: absolute;
+width: 201px;
+height: 26px;
+left: 260px;
+top: 385px;
+
+background: #FFDB71;
+border-radius: 30px;
+}
+.tmbl-daftar:hover {
+    background: #5162fc;
+    text-decoration: none;
+}
+
+p1 { 
+    position: absolute;
+    width: 122px;
+    height: 32px;
+    left: 282px;
+    top: 424px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 10px;
+    line-height: 12px;
+    
+    color: #FFFFFF;
+}
+
+a.login {
+    position: absolute;
+width: 122px;
+height: 32px;
+left: 400px;
+top: 424px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 12px;
+
+color: black;
+
+}
+
+img.logo {
+    position: absolute;
+width: 173px;
+height: 107px;
+left: 527px;
+top: 559px;
+
+}
+
+img.bunny {
+    position: absolute;
+width: 700px;
+height: 500px;
+left: 700px;
+top: 200px;
+
+background: url(01.png);
+mix-blend-mode: darken;
+border-radius: 174px;
+}

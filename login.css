@@ -1,0 +1,178 @@
+body{
+	margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans',sans-serif;
+    scroll-behavior: smooth;
+}
+
+img.logo {
+position: absolute;
+width: 469px;
+height: 200px;
+left: 429px;
+top: 66px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 100px;
+line-height: 121px;
+
+color: #000000;
+}
+
+img.tangga {
+    position: absolute;
+width: 450px;
+height: 650px;
+left: 1085px;
+top: -40px;
+}
+
+a.tbl-gugel {
+    position: absolute;
+    width: 296px;
+    height: 45.15px;
+    left: 511px;
+    top: 317px;
+}
+
+a.tbl-gugel:hover {
+    background: #5162fc;
+    text-decoration: none;
+    width: 250px;
+    border: 1px solid #000000;
+    border-radius: 45px;
+}
+
+.label {
+    position: absolute;
+
+}
+
+.input  {
+    position: absolute;
+width: 245px;
+height: 41px;
+left: 511px;
+top: 419px;
+text-align: center;
+
+border: 3px solid #000000;
+border-radius: 30px;
+}
+
+p1{
+    position: absolute;
+width: 187px;
+height: 33px;
+left: 620px;
+top: 379px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+}
+
+.pasword {
+    position: absolute;
+width: 245px;
+height: 41px;
+left: 511px;
+top: 490px;
+text-align: center;
+border: 3px solid #000000;
+border-radius: 30px;
+}
+
+.tmbl-login {
+    position: absolute;
+width: 245px;
+height: 41px;
+left: 512px;
+top: 560px;
+
+background: black;
+
+border-radius: 30px;
+color: white;
+}
+
+.tmbl-login:hover {
+    background: #5162fc;
+    text-decoration: none;
+}
+
+a.lupa {
+    position: absolute;
+width: 142px;
+height: 29px;
+left: 581px;
+top: 610px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 14px;
+
+color: #2D68FF;
+}
+
+img.globe {
+    position: absolute;
+width: 345px;
+height: 327.26px;
+left: -70px;
+top: 425px;
+
+background: url(01.png);
+border-radius: 174px;
+transform: rotate(deg);
+}
+
+img.pulpen {
+    position: absolute;
+width: 317px;
+height: 650px;
+left: -164px;
+top: -448px;
+
+}
+
+p2 {
+    position: absolute;
+width: 227px;
+height: 32px;
+left: 559px;
+top: 625px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+
+color: #000000;
+}
+
+a.create {
+    position: absolute;
+width: 153px;
+height: 31px;
+left: 635px;
+top: 625px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 15px;
+
+color: #0047FF;
+
+}
